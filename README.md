@@ -11,7 +11,7 @@ Summoned entities can only be seen and hit by that player, and become NoAI.
 
 Once summoned, an entity does not disappear until you use deleteClientEntity or exit the server, and it also persists outside the chunk.
 
-##example
+### example
 ```ts
 createClientEntity(player, "minecraft:zombie", player.getFeetPos(), (actor)=>{
   //can control actor in handling
