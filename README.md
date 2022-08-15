@@ -1,4 +1,4 @@
-# clientntity-for-bdsx
+# clientEntity-for-bdsx
 A sample of client entity
 
 앤티티를 서버에 소환하는게 아닌 특정 플레이어에게만 패킷을 통해 소환 합니다.
